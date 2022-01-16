@@ -7,12 +7,10 @@
 #include <malloc.h>
 #include <stdlib.h>
 #include <math.h>
-//ydalil tvoe
+//хаха
 //Глобальная переменная, которая передает ход игрокам
 
-int proverka(int k) {
 
-}
 int W_or_B;
 
 void end_cycle(struct Node* lst); //зацикливает строку
