@@ -7,10 +7,8 @@
 #include <malloc.h>
 #include <stdlib.h>
 #include <math.h>
-// lalala
-//Глобальная переменная, которая передает ход игрокам
-//graaaa
 
+//Глобальная переменная, которая передает ход игрокам
 int W_or_B;
 
 void end_cycle(struct Node* lst); //зацикливает строку
@@ -83,9 +81,7 @@ void move_el_w(int l, int r, struct Node* start, int mas[], int left_dif, int ri
 int out_rule_w(int l, int r, struct Node* start, int difference, int from, int double_difference_r, int double_difference_l);
 void zero_imp_w(struct Node* start, int to);
 
-void pr(int h) {
 
-}
 
 int main(void) {
 	W_or_B = 0;
