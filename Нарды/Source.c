@@ -7,7 +7,7 @@
 #include <malloc.h>
 #include <stdlib.h>
 #include <math.h>
-
+//я могу вносить изменения
 //Глобальная переменная, которая передает ход игрокам
 int W_or_B;
 
