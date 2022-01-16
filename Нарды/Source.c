@@ -7,7 +7,7 @@
 #include <malloc.h>
 #include <stdlib.h>
 #include <math.h>
-//удалил твое)))
+//удалил твое
 //Глобальная переменная, которая передает ход игрокам
 
 int proverka(int k) {
