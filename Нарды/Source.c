@@ -7,7 +7,7 @@
 #include <malloc.h>
 #include <stdlib.h>
 #include <math.h>
-// a seychas?
+// ывапывап
 //Глобальная переменная, которая передает ход игрокам
 
 
