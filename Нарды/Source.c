@@ -7,7 +7,7 @@
 #include <malloc.h>
 #include <stdlib.h>
 #include <math.h>
-
+// a seychas?
 //√лобальна€ переменна€, котора€ передает ход игрокам
 
 
